@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CatalogService", "ProductService\CatalogService.csproj", "{D24EF9CE-C221-49FA-A9C4-060A4D24097C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ShopOnMocroservices.Common", "ShopOnMocroservices.Common\ShopOnMocroservices.Common.csproj", "{3EB24A69-63F9-4417-AC2B-0966481E69BC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D24EF9CE-C221-49FA-A9C4-060A4D24097C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D24EF9CE-C221-49FA-A9C4-060A4D24097C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D24EF9CE-C221-49FA-A9C4-060A4D24097C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D24EF9CE-C221-49FA-A9C4-060A4D24097C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3EB24A69-63F9-4417-AC2B-0966481E69BC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3EB24A69-63F9-4417-AC2B-0966481E69BC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3EB24A69-63F9-4417-AC2B-0966481E69BC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3EB24A69-63F9-4417-AC2B-0966481E69BC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {ABB7210C-46A6-4C1F-A878-F6D252149A27}
+	EndGlobalSection
+EndGlobal
